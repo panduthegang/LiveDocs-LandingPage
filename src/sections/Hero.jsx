@@ -15,7 +15,7 @@ const Hero = () => {
             We designed LiveDocs Document Editor to be an easy to use, quick to
             learn, and surprisingly powerful.
           </p>
-          <a href="https://livedocs-by-harsh-durvesh-rudra.netlify.app/" target="_blank" rel="noopener noreferrer">
+          <a href="https://livedocs-by-harsh-durvesh-rudra.vercel.app/sign-in" target="_blank" rel="noopener noreferrer">
             <Button icon="/images/zap.svg">Try it now</Button>
           </a>
         </div>
