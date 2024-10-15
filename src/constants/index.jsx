@@ -207,6 +207,14 @@ export const testimonials = [
     comment:
       "The efficiency boost is undeniable. This platform has transformed our workflow, forever.",
   },
+  {
+    id: "6",
+    name: "Rishika Singh",
+    role: "Team Leader",
+    avatarUrl: "/images/testimonials/Rishika.png",
+    comment:
+      "The perfect platform for document collaboration! Notifications and comments keep everything on track.",
+  },
 ];
 
 export const logos = [
